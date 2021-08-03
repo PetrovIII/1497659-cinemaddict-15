@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Илья Петров](https://up.htmlacademy.ru/ecmascript/15/user/1497659).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Глазков](https://htmlacademy.ru/profile/id1194253).
 
 ---
 
